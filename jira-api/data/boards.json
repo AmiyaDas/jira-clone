@@ -1,0 +1,26 @@
+[
+    {
+        "board_id": "",
+        "boardName": "",
+        "description": "",
+        "team": [{
+            "id": "",
+            "name": "",
+            "email": "",
+            "role": ""
+        }],
+        "tasks": [{
+            "task_id": "",
+            "user_id": "",
+            "title": "",
+            "description": "",
+            "createdBy": "",
+            "createdOn": "",
+            "ETA": "",
+            "assignee": "",
+            "assigned": "",
+            "status": ""
+        }]
+        
+    }
+]
