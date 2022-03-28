@@ -4,7 +4,7 @@
 /node_modules
 /.pnp
 .pnp.js
-/jira-backend/node_modules
+/jira-api/node_modules
 /jira-webapp/node_modules
 
 
